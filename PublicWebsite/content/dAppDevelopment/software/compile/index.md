@@ -94,6 +94,6 @@ The same thing can be achieved using the cleos tool whcih can be found in the eo
 
 cleos -u ${nodeos_host}:${nodeos_port} get info
 ```
-./cleos -u 127.0.0.1:8888 get info
+./cleos -u http://127.0.0.1:8888 get info
 ```
 
